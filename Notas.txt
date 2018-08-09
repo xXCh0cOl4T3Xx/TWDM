@@ -1,0 +1,17 @@
+##### IDEIAS PRATICA ####
+
+	1- Criar 1 página de cada ítem:
+		* HTML puro
+		* HTML C/ CSS e sem responsividade 
+		* HTML C/ CSS, bootstrap 4, responsividade e omisão de ta
+
+#### FICHAMENTO ####
+
+	1- Artigo sobre tableless
+		https://tableless.com.br/o-que-etableless/
+	
+	2- Performance no carregamento de HTML/CSS/IMAGENS
+		https://tableless.com.br/css-html-images-performance-no-carregamento/
+
+	3- Desafio de UX
+		https://tableless.com.br/ux-como-aumentar-tolerancia-do-usuario-para-atrasos/
