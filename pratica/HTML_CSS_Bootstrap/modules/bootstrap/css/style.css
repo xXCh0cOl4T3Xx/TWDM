@@ -1,0 +1,24 @@
+body {
+
+	background-image: url(../../../../img/background.jpg);
+  background-color: #FFEFDB;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed; 
+padding-top: 50px;
+}
+
+
+ 
+
+
+
+/*# Mobile 768px padrão Bootstrap*/
+@media screen and (max-width: 768px) {
+body{
+	background-image: none;
+	background-color: #B22222;
+	}
+
+ }
+
