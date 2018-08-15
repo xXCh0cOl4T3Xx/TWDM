@@ -1,0 +1,35 @@
+body {
+
+	background-image: url(../img/background.jpg);
+	background-color: #FFEFDB;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed; 
+	padding-top: 20px;
+}
+.texto-laranja{
+	color: #FF8C00;
+}
+
+.banner_1 img{
+	max-height: 50px;
+	max-width: 50px;
+}
+.topo{
+	margin-bottom: 250px;
+}
+#capa-trabalho{
+	background-color: #FFFFFF;
+	padding: 100px;
+	margin-top: 200px;
+	text-align: left; 
+}
+/*# Mobile 768px padrão Bootstrap*/
+@media screen and (max-width: 768px) {
+	body{
+		background-image: none;
+		background-color: #B0C4DE;
+	}
+
+}
+
