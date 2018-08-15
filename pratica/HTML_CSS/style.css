@@ -1,0 +1,63 @@
+/*################# Tags ###############*/
+
+body {
+
+	background-image: url(../img/background.jpg);
+	background-color: #A1A7B2;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed; 
+	padding-top: 20px;
+	position: relative;
+	display: table; 
+}
+
+
+/*############### Classes ###############*/
+
+.texto-laranja{
+	color: #FF8C00;
+}
+.texto-laranja-2{
+	color: #D2691E;
+}
+
+.container{
+	text-align:center;
+	background-color:#D3D3D3;
+	padding: 50px;
+	margin: 0px 100px 0px 100px;
+}
+.row{
+	max-width: 90%;
+	margin-right: 5%;
+	margin-left: 5%;
+	position: relative;
+	
+}
+.col{
+	position: relative;
+	float: left;
+	padding:20px; 
+}
+.text-justify{
+	text-align: justify;
+}
+.text-center{
+	text-align: center;
+}
+
+
+
+/*############### IDs ##############*/
+
+#topo {
+	margin-bottom:50px;
+
+}
+#capa-trabalho{
+	background-color: #FFFFFF;
+	padding: 100px;
+	margin-top: 200px;
+	text-align: left; 
+}
