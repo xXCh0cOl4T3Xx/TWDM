@@ -15,8 +15,8 @@ body {
 	max-height: 50px;
 	max-width: 50px;
 }
-.topo{
-	margin-bottom: 250px;
+#topo{
+	margin-bottom:50px;
 }
 #capa-trabalho{
 	background-color: #FFFFFF;
